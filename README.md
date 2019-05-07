@@ -1,6 +1,6 @@
 # 2019-1-OSS-E2
 ## Members
-- 박동찬 (소프트웨어학과 / 18) : ParkDongCHan
+- 박동찬 (소프트웨어학과 / 18) : ParkDongChan
 - 이정우 (소프트웨어학과 / 18) : jeongwoo25
 - 이지우 (소프트웨어학과 / 18) : LJW25
 - 조민규 (소프트웨어학과 / 18) : redjo99
