@@ -1,15 +1,17 @@
+# Team members
 
-# Park Dong Chan
+## Park Dong Chan
 Overall project management, writing the code of project and code review of E2 team
 
-# Jo Min Gyu
+## Jo Min Gyu
 Code editing of Data Structure folder & Add new algorithm for sorting
 
-# Lee Jeong Woo
+## Lee Jeong Woo
 Code editing of Sorting folder & Add new algorithm for sorting
 
-# Lee ji woo
+## Lee ji woo
 Code editing of the other folders & Wiki tab management
+
 
 
 
