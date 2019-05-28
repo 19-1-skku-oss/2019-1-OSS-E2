@@ -1,20 +1,17 @@
+# Welcome!
+Our project is copied from TheAlgorithms/C, open source project for C algorithms in github. We are going to add some sorting algorithms(e.g. Radix sorting) and data structure algorithms. Also, we will find problems in existing codes and edit them. Our final goal is to give pull requests to TheAlgorithms/C and take some comments to them. We expect our project very energetic!
+
+![Algorithms](https://avatars2.githubusercontent.com/u/20487725?s=200&v=4)
+
 # Team members
 
-## Park Dong Chan
-Overall project management, writing the code of project and code review of E2 team
+Park Dongchan : Overall project management, writing the code of project and code review of E2 team
 
-## Jo Min Gyu
-Code editing of Data Structure folder & Add new algorithm for sorting
+Jo Mingyu : Code editing of Data Structure folder & Add new algorithm for sorting
 
-## Lee Jeong Woo
-Code editing of Sorting folder & Add new algorithm for sorting
+Lee Jeongwoo : Code editing of Sorting folder & Add new algorithm for sorting
 
-## Lee ji woo
-Code editing of the other folders & Wiki tab management
-
-
-
-
+Lee Jiwoo : Code editing of the other folders & Wiki tab management
 
 
 # C
