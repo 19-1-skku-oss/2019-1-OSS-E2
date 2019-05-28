@@ -1,12 +1,12 @@
 # Welcome!
 ![Algorithms](https://avatars2.githubusercontent.com/u/20487725?s=200&v=4)
 
-Our project is copied from TheAlgorithms/C, open source project for C algorithms in github.
-We are going to add some sorting algorithms(e.g. Radix sorting) and data structure algorithms.
-Also, we will find problems in existing codes and edit them. 
-Our final goal is to give pull requests to TheAlgorithms/C and take some comments to them. 
-We expect our project very energetic!
-
+Our project is copied from TheAlgorithms/C, open source project for C algorithms in github.  
+We are going to add some sorting algorithms(e.g. Radix sorting) and data structure algorithms.  
+Also, we will find problems in existing codes and edit them.   
+Our final goal is to give pull requests to TheAlgorithms/C and take some comments to them.   
+We expect our project very energetic!  
+ 
 
 # Team members
 
