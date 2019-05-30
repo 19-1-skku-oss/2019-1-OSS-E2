@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /*Displays the array, passed to this method*/
-void display(int arr[], int n){
+void display(int* arr, int n){
     
     int i;
     for(i = 0; i < n; i++){
@@ -13,40 +13,39 @@ void display(int arr[], int n){
     
 }
 
-/*Swap function to swap two values*/
-void swap(int *first, int *second){
-    
-    int temp = *first;
-    *first = *second;
-    *second = temp;
-    
-}
 
 /*This is where the sorting of the array takes place
  arr[] --- Array to be sorted
  size --- Array Size
- */
-void selectionSort(int arr[], int size){
+*/
+void selectionSort(int* arr, int size){
     
-    for(int i=0; i<size; i++) {
+	int tmp;
+
+    for(int i=0; i<size - 1; i++) {
         int min_index = i;
+
         for(int j=i+1; j<size; j++) {
             if(arr[min_index] > arr[j]) {
                 min_index = j;
             }
         }
-        swap(&arr[i], &arr[min_index]);
+        
+	tmp = arr[min_index];
+	arr[min_index] = arr[i];
+	arr[i] = tmp;
+
     }
 }
 
-int main(int argc, const char * argv[]) {
+int main(void) {
     int n;
-    printf("Enter size of array:\n");
+    printf("Enter size of array: ");
     scanf("%d", &n); // E.g. 8
     
     printf("Enter the elements of the array\n");
     int i;
-    int arr[n];
+    int* arr = (int*)malloc( n * sizeof(int) );
     for(i = 0; i < n; i++){
         scanf("%d", &arr[i] );
     }
