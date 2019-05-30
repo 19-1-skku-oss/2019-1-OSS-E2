@@ -40,7 +40,7 @@ void radix(int arr[], int size) {
 		}
 		for (int j = 0; j < size; j++) {
 			absm = j;
-			locm = localmin(dig, j+1, size);
+			locm = localmin(dig, j, size);
 			if (dig[absm] > dig[locm]) {
 				int temp = dig[absm];
 				dig[absm] = dig[locm];
@@ -61,7 +61,7 @@ void radix(int arr[], int size) {
 int main(void) {
 	int number[] = { 35,473,121,4456,1,23,7,902,3034 };
 	int size = sizeof(number) / sizeof(int);
-	radix(number, sizeof(number));
+	radix(number, size);
 	for (int i = 0; i < size; i++) printf("%d ", number[i]);
 	return 0;
 }
