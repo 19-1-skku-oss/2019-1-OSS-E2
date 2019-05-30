@@ -1,18 +1,20 @@
 #include<stdio.h>
 
-int decimal(int number, int n, int m) {
+//convert number n to m
+int convert(int number, int n, int m) {
 	int digit, result;
 	int a, b, d;
 
 	for (digit = 0, result = 0; number > 0; digit++) {
-		a = number % n;
+		a = number % m;
 		b = a;
-		number /= n;
+		number /= m;
 
 		for (d = digit; d > 0; d--) {
-			b *= m;
+			b *= n;
 		}
 		result += b;
 	}
 	return result;
 }
+
