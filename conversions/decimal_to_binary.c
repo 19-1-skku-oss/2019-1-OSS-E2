@@ -39,30 +39,38 @@ int main()
 
 	while(inputNumber > 0)
 	{
-	     // computes the remainder by modulo 2 and 1's compliment
-             re = -((inputNumber % 2) - 1);
+	     // computes the remainder by modulo 2
+             re = inputNumber % 2;
 	     
 	     // computes the quotient of division by 2
              inputNumber = inputNumber / 2;
 
 	     bits[i] = re;
-             i++;
-	
+             i++;	
 	}
 	
-	// 1's complement to 2's compliment
+	// 1's complement
+	for(j = 0; j < 32; j++)
+	{
+	     if(bits[j] == 0)
+		bits[j] = 1;		
+	     else
+		bits[j] = 0;
+	}	
+	
+	// 2's complement
 	for(j = 0; j < 32; j++)
 	{
 	     if(bits[j] == 0)
 	     {
-		bits[j] = 1;		
+		bits[j] = 1;	
 		break;
 	     }
 
 	     else
 		bits[j] = 0;
-	}	
-	
+	}
+
 	
 	printf("\n\n The number in binary is: ");
 
@@ -95,7 +103,6 @@ int main()
 
              bits[i] = re;
              i++;
-
          }
 
        	 printf("\n\n The number in binary is: ");
