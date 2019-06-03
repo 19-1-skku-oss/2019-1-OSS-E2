@@ -28,7 +28,6 @@ int convert(int number, int n, int m) {
 	}
 	return result;
 }
-
 int main(void)
 {
 	int num;
