@@ -77,6 +77,7 @@ Lee Jiwoo : Code editing of the other folders & Wiki tab management
 	- djb2
 	- xor8 (8 bit)
 	- adler_32 (32 bit)
+	- UnderstandingHashTable.c
 
 
 ## Misc
