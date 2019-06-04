@@ -13,6 +13,39 @@ typedef struct {
 	int len; 
 } DoubleLinkedList;
 
+void InitList(DoubleLinkedList* plist);
+void InsertMiddle(DoubleLinkedList* plist, int pos, Data item);
+void RemoveMiddle(DoubleLinkedList* plist, int pos);
+
+int main() {
+ int x=0,item, num;  
+ printf("\t****Double linked list****\n");
+	while(x!=4)
+	{
+		printf("enter your choice");
+		printf("\n1.Init List
+		       \n2.Insert Middle
+		       \n3Remove List
+		       \n4.exit
+		       \n");
+		scanf("%d",&x);
+		switch(x)
+		{
+			case 1:
+				InitList(DoubleLinkedlist);
+			  	 break;
+			case 2:
+		  		break;
+			case 3: 
+			      	break;
+			case 4: return 0;
+			      
+		}
+	}
+	
+
+}
+
 void InitList(DoubleLinkedList* plist) {
 	Node* dummy1, *dummy2; 
 	dummy1 = (Node*)malloc(sizeof(Node)); 
@@ -56,8 +89,4 @@ void RemoveMiddle(DoubleLinkedList* plist, int pos) {
 	cur->next = temp->next;
 	plist->len--;
 	free(temp);
-}
-
-int main() {
-//I will write later.
 }
