@@ -40,6 +40,7 @@ Lee Jiwoo : Code editing of the other folders & Wiki tab management
 
 ## Data Structures
 	- stack
+	- Dynamic_stack
 	- queue
 	- dictionary
 	linked_list
