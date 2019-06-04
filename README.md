@@ -42,6 +42,7 @@ Lee Jiwoo : Code editing of the other folders & Wiki tab management
 	- stack
 	- Dynamic_stack
 	- queue
+	- Dynamic_queue
 	- dictionary
 	linked_list
 		- singly_link_list_deletion
