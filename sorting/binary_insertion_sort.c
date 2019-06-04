@@ -60,3 +60,20 @@ int main()
  
     return 0;
 }
+
+//practice program code below
+/*
+int main() 
+{ 
+    int a[] = {37, 23, 0, 17, 12, 72, 31, 
+              46, 100, 88, 54}; 
+    int n = sizeof(a)/sizeof(a[0]), i; 
+  
+    insertionSort(a, n); 
+  
+    printf("Sorted array: \n"); 
+    for (i = 0; i < n; i++) 
+        printf("%d ",a[i]); 
+  
+    return 0; 
+} */
