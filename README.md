@@ -10,8 +10,11 @@ We expect our project very energetic!
 # Team members
 
 Park Dongchan : Overall project management, writing the code of project and code review of E2 team
+
 Jo Mingyu : Code editing of Data Structure folder & Add new algorithm for sorting
+
 Lee Jeongwoo : Code editing of Sorting folder & Add new algorithm for sorting
+
 Lee Jiwoo : Code editing of the other folders & Wiki tab management
 
 ## Computer Oriented Statistical Methods
