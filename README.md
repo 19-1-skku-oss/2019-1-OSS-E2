@@ -1,4 +1,3 @@
-# Welcome!
 ![Algorithms](https://avatars2.githubusercontent.com/u/20487725?s=200&v=4)
 
 Our project is copied from TheAlgorithms/C, open source project for C algorithms in github.  
@@ -17,9 +16,6 @@ Jo Mingyu : Code editing of Data Structure folder & Add new algorithm for sortin
 Lee Jeongwoo : Code editing of Sorting folder & Add new algorithm for sorting
 
 Lee Jiwoo : Code editing of the other folders & Wiki tab management
-
-
-# C
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
