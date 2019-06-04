@@ -65,8 +65,7 @@ int main()
 /*
 int main() 
 { 
-    int a[] = {37, 23, 0, 17, 12, 72, 31, 
-              46, 100, 88, 54}; 
+    int a[] = {3, 32, 49, 73, 93, 98, 23, 50, 62, 81, 87}; 
     int n = sizeof(a)/sizeof(a[0]), i; 
   
     insertionSort(a, n); 
@@ -77,3 +76,4 @@ int main()
   
     return 0; 
 } */
+//the result is 3 23 32 49 50 62 73 81 87 93 98
