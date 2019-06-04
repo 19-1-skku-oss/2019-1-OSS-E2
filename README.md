@@ -67,6 +67,7 @@ Lee Jiwoo : Code editing of the other folders & Wiki tab management
 	- SelectionSort
 	- ShakerSort
 	- HeapSort
+	- PancakeSort
 	
 ## Hashing
 	- sdbm
