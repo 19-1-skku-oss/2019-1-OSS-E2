@@ -47,6 +47,8 @@ Code review of our project is carried out every three days.
 	linked_list
 		- singly_link_list_deletion
 		- stack_using_linkedlists
+		- double_lincked_list
+		- circular_lincked_list
 	binary_trees
 		- create_node
 		- recursive_traversals
