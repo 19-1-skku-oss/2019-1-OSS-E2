@@ -1,7 +1,5 @@
 // A C program to sort a linked list using Quicksort 
-#include <iostream> 
-#include <stdio.h> 
-using namespace std; 
+#include <stdio.h>
   
 /* a node of the doubly linked list */
 struct Node 
@@ -76,10 +74,10 @@ void printList(struct Node *head)
 { 
     while (head) 
     { 
-        cout << head->data << "  "; 
+        printf("head->data  "); 
         head = head->next; 
     } 
-    cout << endl; 
+    printf("\n");
 } 
   
 /* Function to insert a node at the beginning of the Doubly Linked List */
