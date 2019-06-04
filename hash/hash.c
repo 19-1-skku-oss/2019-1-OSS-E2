@@ -24,7 +24,8 @@ long long sdbm(char s[])
 
 long long djb2(char s[])
 {
-    long long hash = 5381; /* init value */
+    long long hash = 5381; 
+    /* init value */
     int i = 0;
     while (s[i] != '\0')
     {
