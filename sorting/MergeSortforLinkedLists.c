@@ -110,4 +110,28 @@ void push(struct Node** head_ref, int new_data)
     /* move the head to point to the new node */
     (*head_ref) = new_node; 
 } 
+
+int main() 
+{ 
+    /* Start with the empty list */
+    struct Node* res = NULL; 
+    struct Node* a = NULL; 
   
+    /* Let us create a unsorted linked lists to test the functions 
+Created lists shall be a: 2->3->20->5->10->15 */
+    push(&a, 15); 
+    push(&a, 10); 
+    push(&a, 5); 
+    push(&a, 20); 
+    push(&a, 3); 
+    push(&a, 2); 
+  
+    /* Sort the above created Linked List */
+    MergeSort(&a); 
+  
+    printf("Sorted Linked List is: \n"); 
+    printList(a); 
+  
+    getchar(); 
+    return 0; 
+} 
