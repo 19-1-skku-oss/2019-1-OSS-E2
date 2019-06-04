@@ -11,6 +11,29 @@ typedef struct {
 	int len; 
 } CircularList;
 
+
+bool IsEmpty(CircularList* plist);
+void InitList(CircularList* plist);
+
+void InsertInit(CircularList* plist, Data item);
+void InsertFirst(CircularList* plist, Data item);
+void InsertLast(CircularList* plist, Data item);
+void InsertMiddle(CircularList* plist, int pos, Data item);
+
+void RemoveInit(CircularList* plist);
+void RemoveFirst(CircularList* plist);
+void RemoveLast(CircularList* plist);
+void RemoveMiddle(CircularList* plist, int pos);
+
+Data ReadItem(CircularList* plist, int pos);
+void PrintList(CircularList* plist);
+void ClearList(CircularList* plist);
+
+//--------------------------------------------------
+int main() {
+
+}
+
 // Make a list empty. 
 void InitList(CircularList* plist) {
 	plist->len = 0;
@@ -130,6 +153,3 @@ void ClearList(CircularList* plist) {
 }
 
 
-int main() {
-
-}
