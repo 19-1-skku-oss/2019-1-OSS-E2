@@ -13,16 +13,19 @@ typedef struct {
 } DQueue;
 
 // Make a queue empty. 
+
 void InitQueue(DQueue *pqueue) { 
    pqueue->front = pqueue->rear = NULL; 
 } 
 
 // Check whether a queue is empty. 
+
 bool IsEmpty(DQueue *pqueue) {
    return pqueue->front == NULL; 
 }                                                   
 
 //Read the item at the front. 
+
 Data Peek(DQueue *pqueue) {
    if (IsEmpty(pqueue))
       exit(1);
