@@ -10,15 +10,14 @@
 
 int PlayBullsAndCows(int arr[], int size) {
 	int* guess = malloc(sizeof(int)*size);
-	int strike, ball;
+	int strike = 0, ball = 0;
 	for (int i = 0; i < size; i++) {
 		scanf("%d", &guess[i]);
-		strike = 0, ball = 0;
 		if (guess[i] == arr[i]) {
 			strike++;
 		}
 		else {
-			for (int j = 1; j < size; j++) {
+			for (int j = 0; j < size; j++) {
 				if (guess[i] == arr[j]) {
 					ball++;
 					break;
@@ -46,13 +45,13 @@ void CreateRandomNumbers(int arr[], int size) {
 
 int main(void) {
 	int num[MAX];
-	int strike, ball, point;
+	int strike, ball, point = 0;
 
 	CreateRandomNumbers(num, MAX);
 
 	printf("There are 4 random numbers(0~9).\nPlease input your guessing numbers in order!\n");
 	
-	while (strike < MAX) {
+	while (point < MAX * 10) {
 		point = PlayBullsAndCows(num, MAX);
 		printf("%d strike and %d ball\n", point / 10, point % 10);
 	}
