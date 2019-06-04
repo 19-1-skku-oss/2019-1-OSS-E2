@@ -1,3 +1,5 @@
+# C Project
+
 ![Algorithms](https://avatars2.githubusercontent.com/u/20487725?s=200&v=4)
 
 Our project is copied from TheAlgorithms/C, open source project for C algorithms in github.  
