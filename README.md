@@ -72,6 +72,7 @@ Code review of our project is carried out every three days.
 	- ShakerSort
 	- HeapSort
 	- PancakeSort
+	- RadixSort (OSSE2 added)
 	
 ## Hashing
 	- sdbm
