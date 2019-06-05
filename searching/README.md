@@ -2,7 +2,7 @@
 
 ### Overview 
 
-In this directory you will find (in the right order):
+In this directory you will find :
 * Binary_Search
 * Jump_Search
 * LinearSearch
@@ -11,3 +11,5 @@ In this directory you will find (in the right order):
 * fibonacciSearch
 * interpolation_search
 * modifiedBinarySearch
+* BFS
+* DFS
