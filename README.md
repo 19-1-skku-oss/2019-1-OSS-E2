@@ -39,6 +39,7 @@ Code review of our project is carried out every three days.
 	- decimal_to_hexa
 	- decimal_to_octal
 	- to_decimal
+	- N base to M base
 
 ## Data Structures
 	- stack
@@ -56,6 +57,8 @@ Code review of our project is carried out every three days.
 		- recursive_traversals
 	trie
 		- trie
+	Graph
+		-base_Graph
 
 
 ## Searching
