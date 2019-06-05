@@ -72,6 +72,7 @@ Code review of our project is carried out every three days.
 	- MergeSort
 	- OtherBubbleSort
 	- QuickSort
+	- QuickSort_Iterative
 	- QuickSort_SingleLinkedList
 	- QuickSort_DoubleLinkedList
 	- SelectionSort
