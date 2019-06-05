@@ -1,46 +1,52 @@
-#include<stdio.h>
-#include<conio.h>
-#include<math.h>
-void main()
+#include <stdio.h>
+#include <conio.h>
+#include <math.h>
+
+int main(void)
 {
-	int a[10],n,i,j,temp,sum=0;
-	float mean;
+	int* a;
+	int n, i, j, temp;
+	int sum = 0;
+	double mean;
+	
 	clrscr();
-	printf("Enter no. for Random Numbers :");
+	printf("Enter the number of Random Numbers(0 ~ 99) : ");
 	scanf("%d",&n);
-	for(i=0;i<n;i++)
-	{
-		a[i]=rand()%100;
-	}
-	printf("Random Numbers Generated are :\n");
-	for(i=0;i<n;i++)
-	{
-		printf("\n%d",a[i]);
-	}
+	a = (int*)malloc(n * sizeof(int));
+	
+	for(i = 0; i < n; i++)
+		a[i] = rand() % 100;
+	
+	printf("Random Numbers are : ");
+	for(i = 0; i < n; i++)
+		printf("%d ",a[i]);
 	printf("\n");
-	printf("\nSorted Data:");
-	for(i=0;i<n;i++)
+	
+	printf("\nSorted Data: ");
+	
+	for(i = 0 ; i < n; i++)			// Bubble Sort
 	{
-		for(j=0;j<n;j++)
+		for(j = 0; j < n - i - 1; j++)
 		{
-			if(a[i]<a[j])
+			if( a[j] > a[j + 1])
 			{
-				temp=a[i];
-				a[i]=a[j];
-				a[j]=temp;
+				temp = a[j];
+				a[j] = a[j + 1];
+				a[j + 1]=temp;
 			}
 		}
 	}
-	for(i=0;i<n;i++)
+	
+	for(i = 0; i < n; i++)
 	{
-		printf("\n%d",a[i]);
-		sum=sum+a[i];
+		printf("%d ",a[i]);
+		sum = sum + a[i];
 	}
-	mean=sum/(float)n;
-	printf("\nMean :");
-	printf("%f",mean);
+	
+	mean = (double)sum / n;
+	printf("\n\nMean : %lf", mean);
 
-	getch();
+	return 0;
 }
 
 
