@@ -36,6 +36,30 @@ void DestroyGraph(Graph* pgraph)
 	free(pgraph->heads);
 }
 
+void AddEdge(Graph* pgraph, int src, int dest)
+{
+	GNode* newNode1, *newNode2, *cur;
+
+	newNode1 = (GNode *)malloc(sizeof(GNode));
+	newNode1->id = dest;
+	newNode1->next = NULL;
+
+	cur = pgraph->heads[src]; 	// Create a node for dest in src.
+	while (cur->next != NULL)
+		cur = cur->next;
+	cur->next = newNode1;
+
+	newNode2 = (GNode *)malloc(sizeof(GNode));
+	newNode2->id = src;
+	newNode2->next = NULL;
+
+	cur = pgraph->heads[dest]; 	// Create a node for src in dest.
+	while (cur->next != NULL)
+		cur = cur->next;
+	cur->next = newNode2;
+}
+
+
 int main()
 {
 
