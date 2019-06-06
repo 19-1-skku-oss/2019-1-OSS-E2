@@ -143,6 +143,13 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- Sudoku Solver
 	- prime factorization
 	
+## Project_euler
+	Problem 01
+	Problem 02
+	Problem 03
+	- Problem06_solution1
+	- Problem07_solution1
+	
 ## Simple Client Server Implementation
 This directory contains
 * client.c
