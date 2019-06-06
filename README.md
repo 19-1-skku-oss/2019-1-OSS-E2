@@ -46,12 +46,14 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- statistic (C Lib)
 
 ## Conversions
+        - N base to M base
 	- binary_to_decimal
+	- binary_to_hexa
+	- binary_to_octal
 	- decimal _to_binary
 	- decimal_to_hexa
 	- decimal_to_octal
-	- to_decimal
-	- N base to M base
+	- toDecimal
 
 ## Data Structures
 	- stack
