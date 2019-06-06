@@ -1,17 +1,40 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-typedef struct _GNode
-{
+typedef struct _GNode{
 	int id;
 	struct _GNode* next;
 } GNode;
 
-typedef struct 
-{
+typedef struct {
 	int num;
 	GNode** heads;
 } Graph;
+
+void CreateGraph(Graph* pgraph, int num);
+void DestroyGraph(Graph* pgraph);
+void AddEdge(Graph* pgraph, int src, int dest);
+void PrintGraph(Graph* pgraph);
+
+int main()
+{
+
+  //sample
+	Graph g;
+	CreateGraph(&g, 5);
+	AddEdge(&g, 0, 1);
+	AddEdge(&g, 0, 2);
+	AddEdge(&g, 0, 4);
+	AddEdge(&g, 1, 2);
+	AddEdge(&g, 2, 3);
+	AddEdge(&g, 2, 4);
+	AddEdge(&g, 3, 4);
+	
+	PrintGraph(&g);
+	DestroyGraph(&g);
+
+	return 0;
+}
 
 void CreateGraph(Graph* pgraph, int num)
 {
@@ -70,25 +93,4 @@ void PrintGraph(Graph* pgraph)
 		}
 	}
 	free(pgraph->heads);
-}
-
-
-int main()
-{
-
-  //sample
-	Graph g;
-	CreateGraph(&g, 5);
-	AddEdge(&g, 0, 1);
-	AddEdge(&g, 0, 2);
-	AddEdge(&g, 0, 4);
-	AddEdge(&g, 1, 2);
-	AddEdge(&g, 2, 3);
-	AddEdge(&g, 2, 4);
-	AddEdge(&g, 3, 4);
-	
-	PrintGraph(&g);
-	DestroyGraph(&g);
-
-	return 0;
 }
