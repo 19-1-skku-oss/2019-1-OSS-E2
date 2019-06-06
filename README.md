@@ -75,12 +75,10 @@ If there are any errors or problems in certain parts of the project, such as REA
 	graphs
 		-base_Graph
 
-
 ## Searching
 	- Binary_Search
 	- Other_Binary_Search
 	- Jump_Search
-
 
 ## Sorting
 	- BinaryInsertionSort
@@ -99,13 +97,13 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- PancakeSort
 	- RadixSort (OSSE2 added)
 	- MergeSortforLinkedLists
+	
 ## Hashing
 	- sdbm
 	- djb2
 	- xor8 (8 bit)
 	- adler_32 (32 bit)
 	- UnderstandingHashTable.c
-
 
 ## Misc
 	- Binning
@@ -122,6 +120,12 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- Sudoku Solver
 	- prime factorization
 
+## Project_euler
+	Problem 01
+	Problem 02
+	Problem 03
+	- Problem06_solution1
+	- Problem07_solution1
 
 ## exercism
 In this directory you will find (in the right order):
