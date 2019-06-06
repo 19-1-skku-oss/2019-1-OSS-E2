@@ -58,7 +58,10 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- Dynamic_stack
 	- queue
 	- Dynamic_queue
-	- dictionary
+	- UnionFind
+	Array
+	stack
+	dictionary
 	linked_list
 		- singly_link_list_deletion
 		- stack_using_linkedlists
@@ -69,7 +72,7 @@ If there are any errors or problems in certain parts of the project, such as REA
 		- recursive_traversals
 	trie
 		- trie
-	Graph
+	graphs
 		-base_Graph
 
 
