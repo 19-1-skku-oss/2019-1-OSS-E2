@@ -1,19 +1,17 @@
 #include<stdio.h>
+#include<stdlib.h>
 
-typedef struct _GNode
-{
+typedef struct _GNode{
 	int id;
 	struct _GNode* next;
 } GNode;
 
-typedef struct 
-{
+typedef struct {
 	int num;
 	GNode** heads;
 } Graph;
 
-void CreateGraph(Graph* pgraph, int num)
-{
+void CreateGraph(Graph* pgraph, int num){
 	pgraph->num = num;
 	pgraph->heads = (GNode **)malloc(sizeof(GNode*)* num);
 	for (int i = 0; i < num; i++) {
@@ -36,8 +34,7 @@ void DestroyGraph(Graph* pgraph)
 	free(pgraph->heads);
 }
 
-void AddEdge(Graph* pgraph, int src, int dest)
-{
+void AddEdge(Graph* pgraph, int src, int dest){
 	GNode* newNode1, *newNode2, *cur;
 
 	newNode1 = (GNode *)malloc(sizeof(GNode));
@@ -57,6 +54,17 @@ void AddEdge(Graph* pgraph, int src, int dest)
 	while (cur->next != NULL)
 		cur = cur->next;
 	cur->next = newNode2;
+}
+
+void PrintGraph(Graph* pgraph){
+	for (int i = 0; i < pgraph->num; i++) {
+		GNode* cur = pgraph->heads[i];
+		while (cur != NULL) {
+			printf("%d", cur->id);
+			cur = cur->next;
+		}
+	}
+	free(pgraph->heads);
 }
 
 
