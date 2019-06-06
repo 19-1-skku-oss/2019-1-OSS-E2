@@ -103,7 +103,9 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- BinaryInsertionSort
 	- BubbleSort
 	- BogoSort
+	- Gnome Sort
 	- InsertionSort
+	- InsertionSort_Recursive
 	- MergeSort
 	- OtherBubbleSort
 	- QuickSort
