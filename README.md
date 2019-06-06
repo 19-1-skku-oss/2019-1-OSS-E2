@@ -86,9 +86,17 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- bulls-and-cows
 	
 ## Searching
+	pattern_search
 	- Binary_Search
 	- Other_Binary_Search
 	- Jump_Search
+	- BFS
+	- DFS
+	- LinearSearch
+	- binarys
+	- fibonacciSearch
+	- interpolation_search
+	- modifiedBinarySearch
 
 
 ## Sorting
@@ -108,6 +116,7 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- PancakeSort
 	- RadixSort (OSSE2 added)
 	- MergeSortforLinkedLists
+	
 ## Hashing
 	- sdbm
 	- djb2
