@@ -9,9 +9,9 @@ Our final goal is to give pull requests to TheAlgorithms/C and take some comment
 We expect our project very energetic!  
  
 
-# Team members                                                                                                                (Sungkyunkwan University Software students)
+# Team members (Sungkyunkwan University Software students)
 
-Park Dongchan : Overall project management, writing the code of project and code review of E2 team
+Park Dongchan (Team leader) : Overall project management, writing the code of project and code review of E2 team
 
 Jo Mingyu : Code editing of Data Structure folder & Add new algorithm for sorting
 
