@@ -42,9 +42,8 @@ PROBLEMS:
 ### Overview 
 
 In this directory you will find (in the right order):
-* hello-world
-* isogram
-* acronym
-* word-count
-* rna-transcription
-* bulls-and-cows
+* sol1.c, sol2.c, sol3.c (in Problem 01)
+* sol1.c, sol2.c, sol3.c (in Problem 02)
+* sol1.c, sol2.c, sol3.c (in Problem 03)
+* Problem06_solution1.c
+* Problem07_solution1.c
