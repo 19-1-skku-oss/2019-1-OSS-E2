@@ -9,7 +9,7 @@ Our final goal is to give pull requests to TheAlgorithms/C and take some comment
 We expect our project very energetic!  
  
 
-# Team members
+# Team members (Sungkyunkwan University Software students)
 
 Park Dongchan : Overall project management, writing the code of project and code review of E2 team
 
@@ -19,9 +19,9 @@ Lee Jeongwoo : Code editing of Sorting folder & Add new algorithm for sorting
 
 Lee Jiwoo : Code editing of the other folders & Wiki tab management
 
-
 Code review of our project is carried out every three days.
 
+# Overview what we do
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
