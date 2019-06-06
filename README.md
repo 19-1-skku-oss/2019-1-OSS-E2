@@ -9,7 +9,8 @@ Our final goal is to give pull requests to TheAlgorithms/C and take some comment
 We expect our project very energetic!  
  
 
-# Team members (Sungkyunkwan University Software students)
+# Team members 
+# (Sungkyunkwan University Software students)
 
 Park Dongchan : Overall project management, writing the code of project and code review of E2 team
 
