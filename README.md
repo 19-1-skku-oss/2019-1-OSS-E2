@@ -139,7 +139,7 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- Greatest Common Divisor
 	- Sudoku Solver
 	- prime factorization
-
+	
 ## Simple Client Server Implementation
 This directory contains
 * client.c
