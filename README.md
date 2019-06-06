@@ -76,8 +76,15 @@ If there are any errors or problems in certain parts of the project, such as REA
 		- trie
 	graphs
 		-base_Graph
-
-
+		
+## exercism
+	- hello-world
+	- isogram
+	- acronym
+	- word-count
+	- rna-transcription
+	- bulls-and-cows
+	
 ## Searching
 	- Binary_Search
 	- Other_Binary_Search
@@ -123,16 +130,6 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- Greatest Common Divisor
 	- Sudoku Solver
 	- prime factorization
-
-
-## exercism
-In this directory you will find (in the right order):
-* hello-world
-* isogram
-* acronym
-* word-count
-* rna-transcription
-* bulls-and-cows
 
 ## Simple Client Server Implementation
 This directory contains
