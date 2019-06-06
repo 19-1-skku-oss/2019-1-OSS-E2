@@ -47,12 +47,8 @@ int main(void)
 	printf("Enter the result base: ");
 	scanf("%d", &m);
 
-
 	num = convert(num, n, m);
 	printf("\nConverted number is: %d\n", num);
-
-
-
 
 	return 0;
 }
