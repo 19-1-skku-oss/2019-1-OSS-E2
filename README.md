@@ -20,6 +20,7 @@ Lee Jeongwoo : Code editing of Sorting folder & Add new algorithm for sorting
 Lee Jiwoo : Code editing of the other folders & Wiki tab management
 
 Code review of our project is carried out every three days.
+If there are any errors or problems in certain parts of the project, such as README or codes, please send e-mail to tajanboy0359@naver.com.
 
 # Overview what we do
 
