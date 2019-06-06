@@ -114,6 +114,7 @@ If there are any errors or problems in certain parts of the project, such as REA
 	- QuickSort_DoubleLinkedList
 	- SelectionSort
 	- ShakerSort
+	- TimSort
 	- HeapSort
 	- PancakeSort
 	- RadixSort (OSSE2 added)
