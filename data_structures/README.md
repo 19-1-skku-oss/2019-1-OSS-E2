@@ -14,3 +14,4 @@ In this directory you will find :
 * DynamicStack
 * queue
 * stack
+* UnionFind
