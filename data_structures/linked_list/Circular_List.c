@@ -149,7 +149,14 @@ void PrintList(CircularList* plist) {
 }
 // Remove all nodes in a list in sequence. 
 void ClearList(CircularList* plist) {
-	
+	Node *temp;
+	for (Node* cur = plist->tail->next; cur != NULL; cur = cur->next) {
+		temp = cur->next;
+		cur->next->next = cur->next;
+		cur = NULL;
+		cur = temp;
+	}
+	free(temp);		
 }
 
 
