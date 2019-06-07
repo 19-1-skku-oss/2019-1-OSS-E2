@@ -1,14 +1,26 @@
 #include<stdio.h>
 
-int Height(BTreeNode *node){
+struct node
+{
+    struct node *leftNode;
+    int data;
+    struct node *rightNode;
+};
+
+int Height(node *nod){
   int r = 0, l = 0;
-  if (node->right_child != NULL)
-  r = Height(node->right_child);
-  if (node->left_child != NULL)
-  l = Height(node->left_child);
+  if (nod->rightNode != NULL)
+  r = Height(node->leftNode);
+  if (nod->leftNode != NULL)
+  l = Height(nod->leftNode);
   return 1 + max(r, l);
 }
 
 int main(){
-
+  //sample
+  int h;
+  node *root;
+  h = height(root);
+  
+  return 0;
 }
