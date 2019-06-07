@@ -77,6 +77,8 @@ If there are any errors or problems in certain parts of the project, such as REA
 	binary_trees
 		- create_node
 		- recursive_traversals
+		- find_heights
+		- binary_search_tree
 	trie
 		- trie
 	graphs
