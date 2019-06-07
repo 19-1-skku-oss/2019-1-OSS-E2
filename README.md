@@ -17,6 +17,8 @@ Park Dongchan (Team leader)
 - Role : Overall project management, writing the code of project and code review of E2 team
 
 Jo Mingyu
+- student ID : 2018311977
+- E-mail : redjo99@naver.com
 - Role : Code editing of Data Structure folder & Add new algorithm for sorting
 
 Lee Jeongwoo
