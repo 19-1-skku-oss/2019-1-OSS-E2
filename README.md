@@ -12,16 +12,20 @@ We expect our project very energetic!
 # Team members (Sungkyunkwan University Software students)
 
 Park Dongchan (Team leader) 
-Role : Overall project management, writing the code of project and code review of E2 team
+- student ID : 2018311110
+- E-mail : tajanboy0359@naver.com
+- Role : Overall project management, writing the code of project and code review of E2 team
 
 Jo Mingyu
-Role : Code editing of Data Structure folder & Add new algorithm for sorting
+- Role : Code editing of Data Structure folder & Add new algorithm for sorting
 
 Lee Jeongwoo
-Role : Code editing of Sorting folder & Add new algorithm for sorting
+- Role : Code editing of Sorting folder & Add new algorithm for sorting
 
 Lee Jiwoo
-Role : Code editing of the other folders & Wiki tab management
+- student ID : 2018314894
+- E-mail : dbjwlee@gmail.com
+- Role : Code editing of the other folders & Wiki tab management
 
 Code review of our project is carried out every three days.
 If there are any errors or problems in certain parts of the project, such as README or codes, please send e-mail to tajanboy0359@naver.com.
