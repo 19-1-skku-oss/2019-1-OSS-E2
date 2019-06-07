@@ -5,20 +5,20 @@ This directory contains some sample solutions for **sorting.io**
 ### Overview 
 
 In this directory you will find (in the right order):
-* BogoSort
+* BogoSort  (OSSE2 added)
 * BubbleSort
 * BucketSort
 * HeapSort
 * InsertionSort
-* MergeSortforLinkedLists
+* MergeSortforLinkedLists  (OSSE2 added)
 * OtherBubbleSort
 * PancakeSort
 * QuickSort
-* QuickSort_DoubleLinkedList
+* QuickSort_DoubleLinkedList  (OSSE2 added)
 * SelectionSort
-* binary_insertion_sort
+* binary_insertion_sort (OSSE2 added)
 * countingSort
 * mergesort
 * partitionSort
-* radix
-* TimSort
+* radix  (OSSE2 added)
+* TimSort  (OSSE2 added)
