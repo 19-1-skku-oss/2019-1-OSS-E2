@@ -38,7 +38,7 @@ If there are any errors or problems in certain parts of the project, such as REA
 ### Pull requests
 <img src="https://user-images.githubusercontent.com/42231056/59091570-96142a80-894a-11e9-9b27-85c000ccbb65.png" width="400"></left>
 <img src="https://user-images.githubusercontent.com/42231056/59092217-f6f03280-894b-11e9-84b7-879da3a20a85.png" width="400"></right>
-
+**The example of Pull request 'bulls and cows'**
 ### Projects
 
 ### Wiki
