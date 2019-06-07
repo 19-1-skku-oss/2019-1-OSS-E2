@@ -21,3 +21,4 @@ In this directory you will find (in the right order):
 * mergesort
 * partitionSort
 * radix
+* TimSort
