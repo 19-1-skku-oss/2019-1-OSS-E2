@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 //convert number n to m
+//This function only can convert when N and M are smaller than 10.
 int convert(int number, int n, int m) {
 	int digit, temp, result;
 	int a, b, d;
@@ -28,10 +29,8 @@ int convert(int number, int n, int m) {
 	}
 	return result;
 }
-int main(void)
-{
-	int num;
-	int n, m;
+int main(void){
+	int num, n, m;
 
 	printf("Enter the number: ");
 	scanf("%d", &num);
@@ -43,10 +42,19 @@ int main(void)
 	}
 
 	printf("Enter the initial base: ");
-	scanf("%d", &n);
+	if (n < 0 || n > 11) {
+		printf("The base number should be bigger then 0, smaller then 11!");
+		printf("Enter the number: ");
+		scanf("%d", &n);
+	}
+	
 	printf("Enter the result base: ");
-	scanf("%d", &m);
-
+	if (m < 0 || m > 11) {
+		printf("The base number should be bigger then 0, smaller then 11!");
+		printf("Enter the number: ");
+		scanf("%d", &m);
+	}
+	
 	num = convert(num, n, m);
 	printf("\nConverted number is: %d\n", num);
 
