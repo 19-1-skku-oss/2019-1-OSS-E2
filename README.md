@@ -28,7 +28,8 @@ If there are any errors or problems in certain parts of the project, such as REA
 ### issues
 
 ### Pull requests
-![Pullrequest](C:\Users\박동천\Pictures\Screenshots/pullrequest1.png)
+![pullreqeust1](https://user-images.githubusercontent.com/42231056/59091570-96142a80-894a-11e9-9b27-85c000ccbb65.png)
+
 ### Projects
 
 ### Wiki
