@@ -16,7 +16,7 @@ We expect our project very energetic!
 - E-mail : tajanboy0359@naver.com
 - Role : Overall project management, writing the code of project and code review of E2 team
 
-조민규 Jo Mingyu
+조민규 Jo Mingyu `redjo99`
 - student ID : 2018311977
 - E-mail : redjo99@naver.com
 - Role : Code editing of Data Structure folder & Add new algorithm for sorting
