@@ -16,11 +16,6 @@ We expect our project very energetic!
 - E-mail : tajanboy0359@naver.com
 - Role : Overall project management, writing the code of project and code review of E2 team
 
-조민규 Jo Mingyu `redjo99`
-- student ID : 2018311977
-- E-mail : redjo99@naver.com
-- Role : Code editing of Data Structure folder & Add new algorithm for sorting
-
 이정우 Lee Jeongwoo `jeongwoo25`
 - student ID : 2018314938
 - E-mail : ljwoo98@naver.com
@@ -30,6 +25,11 @@ We expect our project very energetic!
 - student ID : 2018314894
 - E-mail : dbjwlee@gmail.com
 - Role : Code editing of the other folders & Wiki tab management
+
+조민규 Jo Mingyu `redjo99`
+- student ID : 2018311977
+- E-mail : redjo99@naver.com
+- Role : Code editing of Data Structure folder & Add new algorithm for sorting
 
 Code review of our project is carried out every three days.
 If there are any errors or problems in certain parts of the project, such as README or codes, please send e-mail to tajanboy0359@naver.com.
