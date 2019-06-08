@@ -155,6 +155,7 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 	- SelectionSort
 	- ShakerSort
 	- TimSort
+	- TreeSort
 	- HeapSort
 	- PancakeSort
 	- RadixSort (OSSE2 added)
