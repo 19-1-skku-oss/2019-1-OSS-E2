@@ -9,6 +9,7 @@ In this directory you will find :
   - find height
   - recursive traversals
   - binary search tree
+  - threaded binary tree
 * Dictionary
 * Graphs 
   - Bellman-Ford
