@@ -46,7 +46,8 @@ If there are any errors or problems in certain parts of the project, such as REA
 ### Projects
 
 ### Wiki
-
+- The overview  of our project
+- The details are as follows
 ### Insights
 
 ## Computer Oriented Statistical Methods
