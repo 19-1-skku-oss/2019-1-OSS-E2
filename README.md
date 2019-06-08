@@ -58,6 +58,11 @@ If there are any errors or problems in certain parts of the project, such as REA
 - **이지우(Lee Jiwoo)** `LJW25`
 - **조민규(Jo Mingyu)** `redjo99`
 
+## 2019, May 28 ~ June 3
+- **박동찬(Park DongChan)** `ParkDongChan`
+- **이정우(Lee Jeongwoo)** `jeongwoo25`
+- **이지우(Lee Jiwoo)** `LJW25`
+- **조민규(Jo Mingyu)** `redjo99`
 
 
 
