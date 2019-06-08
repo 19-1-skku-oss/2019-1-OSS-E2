@@ -70,7 +70,7 @@ If there are any errors or problems in certain parts of the project, such as REA
 - **이지우(Lee Jiwoo)** `LJW25`
 - **조민규(Jo Mingyu)** `redjo99`
 
-_The details of the progress of each time period are uploaded to Wiki 'Individual activities by period' so we would appreciate your reference.
+_The details of the progress of each time period are uploaded to Wiki 'Individual activities by period' so we would appreciate your reference._
 
 
 ## Computer Oriented Statistical Methods
