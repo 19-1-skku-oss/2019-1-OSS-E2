@@ -14,6 +14,7 @@ In this directory you will find (in the right order):
 * sol1.c, sol2.c, sol3.c (in Problem 01)
 * sol1.c, sol2.c, sol3.c (in Problem 02)
 * sol1.c, sol2.c, sol3.c (in Problem 03)
+* Problem04_solution1.c  (OSSE2 added on June.7)
 * Problem05_solution2.c  (OSSE2 added on June.6)
 * Problem06_solution1.c  (OSSE2 added on June.5)
 * Problem07_solution1.c  (OSSE2 added on June.5)
