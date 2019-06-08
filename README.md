@@ -21,7 +21,7 @@ We expect our project very energetic!
 - E-mail : redjo99@naver.com
 - Role : Code editing of Data Structure folder & Add new algorithm for sorting
 
-이정우 Lee Jeongwoo
+이정우 Lee Jeongwoo `jeongwoo25`
 - student ID : 2018314938
 - E-mail : ljwoo98@naver.com
 - Role : Code editing of Sorting folder & Add new algorithm for sorting
