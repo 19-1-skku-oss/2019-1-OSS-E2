@@ -7,6 +7,8 @@ In this directory you will find :
 * Binary_trees
   - create node
   - find height
+  - recursive treaversals
+  - binary search tree
 * Dictionary
 * Graphs 
   - Bellman-Ford
