@@ -5,6 +5,8 @@
 In this directory you will find :
 * Array
 * Binary_trees
+  - create node
+  - find height
 * Dictionary
 * Graphs 
   - Bellman-Ford
