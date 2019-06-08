@@ -51,6 +51,12 @@ If there are any errors or problems in certain parts of the project, such as REA
 
 ### Insights
 
+# Individual activities by period
+
+
+
+
+
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
 	- Lagrange_Theorem
