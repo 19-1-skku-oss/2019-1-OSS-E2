@@ -8,7 +8,6 @@ In this directory you will find :
 * binary_to_hexa
 * binary_to_octal
 * decimal_to_binary
-* decimal_to_binary (another version)
 * decimal_to_hexa
 * decimal_to_octal
 * toDecimal
