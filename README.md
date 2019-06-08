@@ -11,20 +11,22 @@ We expect our project very energetic!
 
 # Team members (SKKU Software students)
 
-Park Dongchan (Team leader) 
+박동찬 Park Dongchan (Team leader) 
 - student ID : 2018311110
 - E-mail : tajanboy0359@naver.com
 - Role : Overall project management, writing the code of project and code review of E2 team
 
-Jo Mingyu
+조민규 Jo Mingyu
 - student ID : 2018311977
 - E-mail : redjo99@naver.com
 - Role : Code editing of Data Structure folder & Add new algorithm for sorting
 
-Lee Jeongwoo
+이정우 Lee Jeongwoo
+- student ID : 2018314938
+- E-mail : ljwoo98@naver.com
 - Role : Code editing of Sorting folder & Add new algorithm for sorting
 
-Lee Jiwoo
+이지우 Lee Jiwoo
 - student ID : 2018314894
 - E-mail : dbjwlee@gmail.com
 - Role : Code editing of the other folders & Wiki tab management
