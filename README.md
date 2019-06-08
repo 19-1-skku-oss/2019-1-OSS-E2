@@ -26,7 +26,7 @@ We expect our project very energetic!
 - E-mail : ljwoo98@naver.com
 - Role : Code editing of Sorting folder & Add new algorithm for sorting
 
-이지우 Lee Jiwoo
+이지우 Lee Jiwoo `LJW25`
 - student ID : 2018314894
 - E-mail : dbjwlee@gmail.com
 - Role : Code editing of the other folders & Wiki tab management
