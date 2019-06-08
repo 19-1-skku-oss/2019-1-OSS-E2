@@ -3,7 +3,7 @@
 ### Overview 
 
 In this directory you will find :
-* NtoM
+* NtoM (OSSE2 added)
 * binary_to_decimal
 * binary_to_hexa
 * binary_to_octal
