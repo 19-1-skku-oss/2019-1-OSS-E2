@@ -87,39 +87,9 @@ int size() {
     return count;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*
+ *return the queue is empty or not.
+ */
+int isEmpty(){
+   return head == NULL; 
+}
