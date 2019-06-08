@@ -21,7 +21,7 @@ int Height(node *nod){
 int main(){
   //sample
   int h;
-  node *root = malloc();
+  struct node *root = (struct node *)malloc(sizeof(struct node));
   h = height(root);
   
   return 0;
