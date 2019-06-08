@@ -1,11 +1,12 @@
 #include<stdio.h>
+#include<stdlib.h>
 
-struct node
-{
+struct node{
     struct node *leftNode;
     int data;
     struct node *rightNode;
 };
+
 
 int Height(node *nod){
   int r = 0, l = 0;
@@ -16,10 +17,11 @@ int Height(node *nod){
   return 1 + max(r, l);
 }
 
+
 int main(){
   //sample
   int h;
-  node *root;
+  node *root = malloc();
   h = height(root);
   
   return 0;
