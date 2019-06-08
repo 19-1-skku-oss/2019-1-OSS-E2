@@ -3,7 +3,7 @@
 ### Overview 
 
 In this directory you will find :
-- pattern_search
+* pattern_search
 * Binary_Search
 * Jump_Search
 * LinearSearch
