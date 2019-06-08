@@ -5,6 +5,7 @@
 In this directory you will find :
 * Array
 * Binary_trees
+   - threaded_binary_tree
 * Dictionary
 * Graphs 
   - Bellman-Ford
