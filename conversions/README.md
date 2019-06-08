@@ -1,16 +1,14 @@
-# Searching methods 
+# Conversions methods 
 
 ### Overview 
 
 In this directory you will find :
-* pattern_search
-* Binary_Search
-* Jump_Search
-* LinearSearch
-* Other_Binary_Search
-* binarys
-* fibonacciSearch
-* interpolation_search
-* modifiedBinarySearch
-* BFS
-* DFS
+* NtoM
+* binary_to_decimal
+* binary_to_hexa
+* binary_to_octal
+* decimal_to_binary
+* decimal_to_binary (another version)
+* decimal_to_hexa
+* decimal_to_octal
+* toDecimal
