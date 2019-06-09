@@ -186,6 +186,8 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 	- strongNumber
 	- TowerOfHanoi
 	- Greatest Common Divisor
+	- GCD_BruteForce
+	- GCD_BruteForce+
 	- Sudoku Solver
 	- prime factorization
 	
