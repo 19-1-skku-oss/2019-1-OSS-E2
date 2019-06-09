@@ -31,10 +31,10 @@ int isEmpty();
 //MAIN ENTRY POINT
 
 int main(int argc, char const *argv[]) {
-
-    create();
-    enque(5);
-
+	int num;
+	create();
+	enque(5);
+	num = peek();
 
 	return 0;
 }
@@ -79,6 +79,20 @@ int deque() {
         head->next = NULL;
     }
 }
+
+
+/*
+ * Return the head data.
+ */
+int peek(){
+	if(isempty() == 0)
+		return head->data;
+	else
+		printf("This queue is empty!);
+	return 0;
+}
+
+
 
 /**
  * Returns the size of the Queue.
