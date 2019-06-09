@@ -1,10 +1,10 @@
-// This code is for 1st solution of Project Euler Problem 5.
-// redjo99 updated in 8.June.
+// This code is for 1st solution of Project Euler Problem 7.
+// redjo99 updated in 9.June.
 
 #include<stdio.h>
 #include<math.h>
 
-void primesLessThanN(int arr[], int n) {
+int primesLessThanN(int arr[], int n) {
 	int cnt = 0;
 	int is_prime;
 	for (int i = 2; i <= n; i++) {
@@ -19,30 +19,60 @@ void primesLessThanN(int arr[], int n) {
 			arr[cnt++] = i;
 		}
 	}
+
+	return cnt;
 }
 
-int multiplyprimes(int n) {
-	int result = 1;
-	int* prime = malloc(sizeof(int)*n);
+void multiplyPrimes(int arr[], int newarr[], int n, int prime_num) {
+	int num, cnt = 0;
+	for (int i = 2; i <= n; i++) {
+		for (int j = 0; j <= prime_num; j++) {
+			newarr[j] = 0;
+			num = i;
+			if (num > 1) {
+				while (num%arr[j] == 0) {
+					num /= arr[j];
+					cnt++;
+				}
+				if (cnt > newarr[j]) {
+					newarr[j] = cnt;
+				}
+			}
+			else {
+				break;
+			}
+		}
+	}
+}
 
-	
-	free(prime);
+int lastCalculation(int arr[], int newarr[], int prime_num) {
+	int result = 1, sub_result = 1;
+	for (int i = 0; i < prime_num; i++) {
+		for (int j = 0; j < newarr[i]; j++) {
+			sub_result *= arr[i];
+		}
+		result *= sub_result;
+	}
+
 	return result;
 }
 
 int main(void) {
-	int n, num_primes, divisible_num;
+	int n, num_primes, result;
 
 	printf("This program finds the smallest positive number that is\n");
 	printf("evenly divisible by all of the numbers from 1 to N\n");
 	printf("Input N: ");
 	scanf("%d", &n);
+	
 	int* primes = malloc(sizeof(int)*n);
+	num_primes = primesLessThanN(primes, n);
+	int* cnt_primes = malloc(sizeof(int)*num_primes);
+	multiplyPrimes(primes,cnt_primes, n, num_primes);
+	result = lastCalculation(primes, cnt_primes, num_primes);
 
-	primesLessThanN(primes, n);
-	divisible_num = multiplyprimes(n);
-
-	printf("The result for %d is %d", n, divisible_num);
+	printf("The result for %d is %d", n, result);
+	free(cnt_primes);
 	free(primes);
 
 	return 0;
