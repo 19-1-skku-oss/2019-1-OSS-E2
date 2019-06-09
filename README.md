@@ -84,7 +84,7 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 	- statistic (C Lib)
 
 ## Conversions
-        - N base to M base
+      - N base to M base
 	- binary_to_decimal
 	- binary_to_hexa
 	- binary_to_octal
