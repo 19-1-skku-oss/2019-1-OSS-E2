@@ -116,7 +116,12 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 		- trie
 	graphs
 		-base_Graph
-		
+		-Bellman-Ford
+		-Boruvka's Algorithm
+		-Dijkstra's Algorithm
+		-Dijkstra's Algoritm example
+		-Floyd-Warshall
+	
 ## exercism
 	- hello-world
 	- isogram
