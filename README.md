@@ -198,7 +198,7 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 	
 ## Simple Client Server Implementation
 This directory contains
-* client.c
-* server.c
+	-client.c
+	-server.c
 
 First execute server.c in a terminal and then client.c in a different terminal. Enables communication between two terminals.
