@@ -22,7 +22,7 @@ int count;
 //FORWARD DECLARATIONS
 void create();
 void enque(int x);
-int deque();
+void deque();
 int peek();
 int size();
 int isEmpty();
@@ -65,7 +65,7 @@ void enque(int x) {
 /**
  * Takes the next item from the Queue.
  */
-int deque() {
+void deque() {
     int returnData;
     if(head == NULL) {
         printf("ERROR: Deque from empty queue.\n");
@@ -88,11 +88,9 @@ int peek(){
 	if(isempty() == 0)
 		return head->data;
 	else
-		printf("This queue is empty!);
+		printf("ERROR : This queue is empty!);
 	return 0;
 }
-
-
 
 /**
  * Returns the size of the Queue.
