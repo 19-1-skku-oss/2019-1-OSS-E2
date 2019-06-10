@@ -1,0 +1,182 @@
+## 2019, May 7 ~ May 27
+### 2019, May 7
+**조민규(Jo Mingyu)** `redjo99`
+- Found project named "TheAlgorithms/Java"
+- Helped select project to fork "TheAlgorithms"
+- Wrote some parts of readme of whole project
+
+**박동찬(Park DongChan)** `ParkDongChan`
+- Set theme jekyll-theme-cayman  '[Set theme](https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/ee02df6f3616dc49a1d5ccbf4e62e613a810e097)'
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, May 14
+**조민규(Jo Mingyu)** `redjo99`
+- Wrote Wiki page with contributors' information and project source
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, May 21
+**조민규(Jo Mingyu)** `redjo99`
+- Found some parts we can contribute (exercism folder, ProjectEuler folder, sorting folder, searching folder)
+- Started writing Gomoku('오목' in Korean) program for exercism
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, May 27
+**조민규(Jo Mingyu)** `redjo99`
+- Find radix sorting algorithm
+- Wrote radix sorting program and added directly to master branch
+- Made a problem when push in Git Bash
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+## 2019, May 28 ~ June 3
+### 2019, May 28
+**조민규(Jo Mingyu)** `redjo99`
+- Re-uploaded radix sorting code using master branch, but not using Git Bash '[radix sorting 1.0.1](https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/73975b1eda5d56031be69deccabcd840e48ec858)'
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, May 29
+**조민규(Jo Mingyu)** `redjo99`
+- Revised radix sorting code
+- Added dynamic allocation and a function implements finding local minimum.
+
+### 2019, May 30
+**조민규(Jo Mingyu)** `redjo99`
+- Updated radix sorting code to a 1.0.3 version
+- Solved ArrayIndexOutOfBounds problem by changing some values in for statement
+
+## 2019, June 4 ~ June 11
+### 2019, June 4
+**조민규(Jo Mingyu)** `redjo99`
+- Created bulls_and_cows('숫자야구' in Koran) codes
+- Updated readme to include radix sorting and bulls_and_cows
+- Updated bulls_and_cows two times by changing function return type, changing initial variable value, respectively.
+- Created readme file in each project files for the first visitors
+- [bulls_and_cows 1.0.0] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/850531484538d4fa4a395a66f51baa02c0510719)
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, June 5
+**조민규(Jo Mingyu)** `redjo99`
+- Created 1st solution for Problem 7 in ProjectEuler
+- Created 1st solution for Problem 6 in ProjectEuler
+- [Problem7_solution1] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/11889fb901c6d0406425c916491afdd182a95440)
+- [Problem6_soultion1] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/69b7c366dbcefb9c3457657133efa4aaaa438dea)
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, June 6
+**조민규(Jo Mingyu)** `redjo99`
+- Created 2nd solution for Problem 5 in ProjectEuler
+- Updated readme to include 2 problems solved before
+- [Problem5_solution2] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/c8474bf6a17e510fe9f4fdfa43523fb3384ab82f)
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, June 7
+**조민규(Jo Mingyu)** `redjo99`
+- Created 1st solution for problem 4 in ProjectEuler
+- Updated readme to include 2nd solution of Problem 5
+- [Problem4_solution1] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/36d43f7a073fe1fbf998ec81de4f1cdc0c6ac997)
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, June 8
+**조민규(Jo Mingyu)** `redjo99`
+- Created 2nd solution for Problem7 in ProjectEuler
+- Created 1st solution for Problem5 in ProjectEuler
+- Updated readme to include two problems added before
+- [Problem7_solution2] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/0edad8cbea6d1a425b133f16b284cc7ae393a391)
+- [Problem5_solution1] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/21206bff924304352902fc5ac54a30c82bd1abcc)
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, June 9
+**조민규(Jo Mingyu)** `redjo99`
+- Updated 1st solution for Problem7 in ProjectEuler
+- Included math header file to use sqrt function
+- Added multiplyPrimes, lastCalculation function
+- Updated 1st solution for Problem5 in ProjectEuler
+- Changed return type of primesLessThanN
+- Completed multiplyPrimes algorithms
+- Added lastCalculation function
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, June 10
+**조민규(Jo Mingyu)** `redjo99`
+- Updated 1st solution for Problem 7 in ProjectEuler
+- Since I made mistake of applying solution for problem 5, I got back that code
+- Binded some codes in ProjectEuler by renaming those files' name
+- Created 5 java files(Grille, Morpion, Morpionjava, TimeFactor, Victoire) for Gomoku algorithm
+- Updated readme in exercism to include gomoku folder
+- Updated 1st solution for Problem4 in ProjectEuler
+- Changed return type of findPalindromicNum function
+- Completed main algorithms
+- [Grille.java] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/4946e7762250463d65b7be1325dd813bbcf5a0b1)
+- [Morpion.java] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/8701e74b478859f0070285ec68c3aa74e22e4c64)
+- [Morpionjava.java] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/c5639c73d3bb9532d73f2fe447018f8f57f0b8fb)
+- [TimeFactor.java] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/023249aad05d91a62dca33f92af37fb4ee80e2cf)
+- [Victoire.java] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/99b9ef25aabbb89e73aea64a09a683436c361018)
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
+
+### 2019, June 11
+**조민규(Jo Mingyu)** `redjo99`
+- Created 2nd solution for Problem 4 in ProjectEuler
+- [Problem4_solution2] (https://github.com/19-1-skku-oss/2019-1-OSS-E2/commit/e820bbead8034c396d2626b473e1d1a22583d3aa)
+
+**박동찬(Park DongChan)** `ParkDongChan`
+
+**이정우(Lee Jeongwoo)** `jeongwoo25`
+
+**이지우(Lee Jiwoo)** `LJW25`
