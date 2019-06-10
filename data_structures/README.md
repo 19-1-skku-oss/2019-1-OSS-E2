@@ -10,11 +10,17 @@ In this directory you will find :
   - recursive traversals
   - binary search tree
   - threaded binary tree
-  -Left-leaning Red Black Tree
+  - Left-leaning Red Black Tree
+  - AVL tree
+  - Diameter of BST
+  - Merge_2_Balanced_BST
+  - Splay Tree_insert
+  - Splay Tree_Search  
 * Dictionary
 * Graphs 
   - Bellman-Ford
   - Dijkstra
+  - Dijkstra_example
   - Floyd-Warshall
   - baseGraph
   - Boruvka'sAlgorithm
@@ -28,6 +34,6 @@ In this directory you will find :
 * Trie
 * DynamicQueue
 * DynamicStack
-* queue
-* stack
+~~* queue ~~
+~~* stack ~~
 * UnionFind
