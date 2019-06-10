@@ -43,6 +43,7 @@ We opened 16 [issues](https://github.com/19-1-skku-oss/2019-1-OSS-E2/issues), an
 
 ### Pull requests
 We opened 154 [pull requests](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulls), and all of them were closed now.
+
 <img src="https://user-images.githubusercontent.com/42231056/59091570-96142a80-894a-11e9-9b27-85c000ccbb65.png" width="400"></left>
 <img src="https://user-images.githubusercontent.com/42231056/59092217-f6f03280-894b-11e9-84b7-879da3a20a85.png" width="400"></right>  
 **The example of Pull request 'bulls and cows'**
@@ -72,7 +73,6 @@ In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you 
 	- Seidal
 	- Simpson's_1-3rd_rule.c
 	- Variance
-	- statistic (C Lib)
 
 ## Conversions
 	- N base to M base
@@ -85,14 +85,21 @@ In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you 
 	- toDecimal
 
 ## Data Structures
-	- stack
 	- Dynamic_stack
-	- queue
+	- HuffmanCoding
 	- Dynamic_queue
 	- UnionFind
 	Array
+		- CArray
+		- CArrayTests
 	stack
+		- Reverseing_Stack
+		- main
+		- parenthesis
+		- stack
 	dictionary
+		- dict
+		- test_program
 	linked_list
 		- singly_link_list_deletion
 		- stack_using_linkedlists
@@ -102,8 +109,11 @@ In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you 
 		- LinkedList_length
 		- ReverseSearch_List
 		- Reversing_List
+		- mergeLinkedLists
 	binary_trees
 		- AVL Tree
+		- Diameter of BST
+		- Diameter of BST_efficient
 		- Find_height
 		- Left-leaning red black tree
  		- Merte_2_Balanced_BST
@@ -116,12 +126,13 @@ In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you 
 	trie
 		- trie
 	graphs
-		-base_Graph
-		-Bellman-Ford
-		-Boruvka's Algorithm
-		-Dijkstra's Algorithm
-		-Dijkstra's Algoritm example
-		-Floyd-Warshall
+		- base_Graph
+		- Bellman-Ford
+		- Boruvka's Algorithm
+		- Dijkstra's Algorithm
+		- Dijkstra's Algoritm example
+		- Floyd-Warshall
+		- HamiltonianCycle
 	
 ## exercism
 	- hello-world
@@ -131,6 +142,7 @@ In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you 
 	- rna-transcription
 	- bulls-and-cows
 	- wildcard
+	- Gomoku
 	
 ## Searching
 	pattern_search
@@ -165,7 +177,7 @@ In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you 
 	- TreeSort
 	- HeapSort
 	- PancakeSort
-	- RadixSort (OSSE2 added)
+	- radix
 	- MergeSortforLinkedLists
 	
 ## Hashing
@@ -195,11 +207,13 @@ In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you 
 	- prime factorization
 	
 ## Project_euler
-	Problem 01
-	Problem 02
-	Problem 03
-	- Problem06_solution1
-	- Problem07_solution1
+	- Problem 01
+	- Problem 02
+	- Problem 03
+	- Problem 04
+	- Problem 05
+	- Problem 06
+	- Problem07
 	
 ## Simple Client Server Implementation
 This directory contains
