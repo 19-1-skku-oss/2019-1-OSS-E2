@@ -56,30 +56,10 @@ You can find informations about the members who are working on this project, wha
 	* [member's information](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/member's-information)
 	* [Individual parts of contributing to a project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-parts-of-contributing-to-a-project)
 
-### Insights
-You can check the statistical figures associated with this project.
-
-# Individual activities by period
-## 2019, May 7 ~ May 27
-- **박동찬(Park DongChan)** `ParkDongChan`
-- **이정우(Lee Jeongwoo)** `jeongwoo25`
-- **이지우(Lee Jiwoo)** `LJW25`
-- **조민규(Jo Mingyu)** `redjo99`
-
-## 2019, May 28 ~ June 3
-- **박동찬(Park DongChan)** `ParkDongChan`
-- **이정우(Lee Jeongwoo)** `jeongwoo25`
-- **이지우(Lee Jiwoo)** `LJW25`
-- **조민규(Jo Mingyu)** `redjo99`
-
-## 2019, June 4 ~ June 11
-- **박동찬(Park DongChan)** `ParkDongChan`
-- **이정우(Lee Jeongwoo)** `jeongwoo25`
-- **이지우(Lee Jiwoo)** `LJW25`
-- **조민규(Jo Mingyu)** `redjo99`
-
 _The details of the progress of each time period are uploaded to Wiki 'Individual activities by period' so we would appreciate your reference._
 
+### Insights
+You can check the statistical figures associated with this project.
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
