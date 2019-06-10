@@ -111,10 +111,16 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 		- double_lincked_list
 		- circular_lincked_list
 	binary_trees
-		- create_node
-		- recursive_traversals
-		- find_heights
-		- binary_search_tree
+		- AVL Tree
+		- Find_height
+		- Left-leaning red black tree
+ 		- Merte_2_Balanced_BST
+		- Splay Tree_Insert
+ 		- Splay Tree_Search
+ 		- Threaded_binary_tree
+ 		- binary_search_tree
+ 		- create_node
+ 		- recursive_traversals
 	trie
 		- trie
 	graphs
