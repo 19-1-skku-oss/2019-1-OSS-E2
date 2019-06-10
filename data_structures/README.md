@@ -34,6 +34,7 @@ In this directory you will find :
 * Trie
 * DynamicQueue
 * DynamicStack
+* HuffmanCoding
 ~~* queue ~~
 ~~* stack ~~
 * UnionFind
