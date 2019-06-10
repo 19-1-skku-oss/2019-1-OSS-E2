@@ -115,6 +115,10 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 		- stack_using_linkedlists
 		- double_lincked_list
 		- circular_lincked_list
+		- FindMiddle_List
+		- LinkedList_length
+		- ReverseSearch_List
+		- Reversing_List
 	binary_trees
 		- AVL Tree
 		- Find_height
