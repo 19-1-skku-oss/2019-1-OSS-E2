@@ -37,7 +37,7 @@ _If there are any errors or problems in certain parts of the project, such as RE
 # Overview what we do
 ### Commits
 You can check what we do in this project by seeing commits.
-From May 7 to June 11, we made 439 commits.
+From May 7 to June 11, we made 444 commits.
 - [checking commits](https://github.com/19-1-skku-oss/2019-1-OSS-E2/commits/master)
 
 ### Issues
@@ -46,7 +46,9 @@ We opened 16 issues, and 13 of them were closed.
 - [checking issues](https://github.com/19-1-skku-oss/2019-1-OSS-E2/issues)
 
 ### Pull requests
-We opened 154 [pull requests](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulls), and all of them were closed now.
+After modifying the members' code, Merge can be checked through the consent and rejection process.
+We opened 154 pull requests, and all of them were closed now.
+- [checking pull requests](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulls)
 
 <img src="https://user-images.githubusercontent.com/42231056/59091570-96142a80-894a-11e9-9b27-85c000ccbb65.png" width="400"></left>
 <img src="https://user-images.githubusercontent.com/42231056/59092217-f6f03280-894b-11e9-84b7-879da3a20a85.png" width="400"></right>  
