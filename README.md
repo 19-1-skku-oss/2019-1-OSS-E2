@@ -36,10 +36,13 @@ _If there are any errors or problems in certain parts of the project, such as RE
 
 # Overview what we do
 ### commits
+From May 7 to June 11, we made 439 [commits](https://github.com/19-1-skku-oss/2019-1-OSS-E2/commits/master)
 
 ### issues
+We opened 16 [issues](https://github.com/19-1-skku-oss/2019-1-OSS-E2/issues), and 13 of them were closed.
 
 ### Pull requests
+We opened 154 [pull requests](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulls), and all of them were closed now.
 <img src="https://user-images.githubusercontent.com/42231056/59091570-96142a80-894a-11e9-9b27-85c000ccbb65.png" width="400"></left>
 <img src="https://user-images.githubusercontent.com/42231056/59092217-f6f03280-894b-11e9-84b7-879da3a20a85.png" width="400"></right>  
 **The example of Pull request 'bulls and cows'**
@@ -59,7 +62,7 @@ You can find informations about the members who are working on this project, wha
 _The details of the progress of each time period are uploaded to Wiki 'Individual activities by period' so we would appreciate your reference._
 
 ### Insights
-You can check the statistical figures associated with this project.
+In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you can check the statistical figures associated with this project.
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
