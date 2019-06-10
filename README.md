@@ -45,6 +45,7 @@ If there are any errors or problems in certain parts of the project, such as REA
 **The example of Pull request 'bulls and cows'**
 ### Projects
 - [Overview of this Project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/projects/3)
+- [Progress of this Project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/projects/2)
 
 ### Wiki
 - The overview  of our project
