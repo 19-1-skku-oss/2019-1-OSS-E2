@@ -32,9 +32,9 @@ In this directory you will find :
    - stack_using_linkedlists
 * Stack
 * Trie
-* DynamicQueue
-* DynamicStack
-* HuffmanCoding
+- DynamicQueue
+- DynamicStack
+- HuffmanCoding
 ~~* queue ~~
 ~~* stack ~~
-* UnionFind
+- UnionFind
