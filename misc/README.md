@@ -7,6 +7,8 @@ In this directory you will find :
 * Factorial
 * Fibonacci
 * GCD
+* GCD_BruteForce
+* GCD_BruteForce+
 * Hemisphere
 * LongestSubSequence
 * Max_Min
