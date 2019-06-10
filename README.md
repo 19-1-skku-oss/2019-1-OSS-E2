@@ -53,7 +53,7 @@ If there are any errors or problems in certain parts of the project, such as REA
 
 ### Insights
 * [Home](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki)
-- [Individual activities by period](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-activities-by-period)
+	- [Individual activities by period](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-activities-by-period)
 
 # Individual activities by period
 ## 2019, May 7 ~ May 27
