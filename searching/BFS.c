@@ -1,13 +1,12 @@
 // BFS is Breadth-First Search
 
-#include <iostream>
+#include <stdio.h>
 #include <queue>
 #include <vector>
-using namespace std;
  
 int number = 9;
 int visit[9];
-vector<int> a[10];
+int a[][10];
  
 void bfs(int start){
     queue<int> q;
