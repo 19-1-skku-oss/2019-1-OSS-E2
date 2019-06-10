@@ -49,9 +49,9 @@ If there are any errors or problems in certain parts of the project, such as REA
 
 ### Wiki
 * [Home](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki)
-	- [Individual activities by period](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-activities-by-period)
-	- [member's information](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/member's-information)
-	- [Individual parts of contributing to a project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-parts-of-contributing-to-a-project)
+	* [Individual activities by period](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-activities-by-period)
+	* [member's information](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/member's-information)
+	* [Individual parts of contributing to a project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-parts-of-contributing-to-a-project)
 
 ### Insights
 
