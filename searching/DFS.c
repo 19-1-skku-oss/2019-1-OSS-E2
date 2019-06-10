@@ -1,13 +1,10 @@
 // DFS is Depth-First Search
 
-#include <iostream>
-#include <vector>
- 
-using namespace std;
+#include <stdio.h>
  
 int number = 9;
 int visit[9];
-vector<int> a[10];
+int* a[][10];
  
 void dfs(int start){
     if(visit[start]){
