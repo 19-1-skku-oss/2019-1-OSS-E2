@@ -7,6 +7,7 @@ In this directory you will find :
 * Factorial
 * Fibonacci
 * GCD
+* Hemisphere
 * LongestSubSequence
 * Prime
 * PrimeFactoriziation
