@@ -11,7 +11,7 @@ We expect our project very energetic!
 
 # Team members (SKKU Software students)
 
-박동찬 Park Dongchan `ParkDongChan` (Team leader) 
+박동찬 Park Dongchan `ParkDongChan` (Team Leader) 
 - student ID : 2018311110
 - E-mail : tajanboy0359@naver.com
 - Role : Overall project management, writing the code of project and code review of E2 team
