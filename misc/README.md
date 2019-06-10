@@ -9,6 +9,7 @@ In this directory you will find :
 * GCD
 * Hemisphere
 * LongestSubSequence
+* Max_Min
 * Prime
 * PrimeFactoriziation
 * QUARTILE
@@ -22,4 +23,4 @@ In this directory you will find :
 * palindrome
 * rselect
 * strongNumber
-* sudokusolver
+* sudokusolver  
