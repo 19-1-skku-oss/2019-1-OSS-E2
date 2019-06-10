@@ -12,22 +12,22 @@ I've tried to provide all the best possible solutions.
 
 In this directory you will find (in the right order):
 * Problem 01
-- sol1.c, sol2.c, sol3.c
+   - sol1.c, sol2.c, sol3.c
 * Problem 02
-- sol1.c, sol2.c, sol3.c
+   - sol1.c, sol2.c, sol3.c
 * Problem 03
-- sol1.c, sol2.c, sol3.c
+   - sol1.c, sol2.c, sol3.c
 * Problem 04
-- Problem04_solution1.c  (OSSE2 added on June.10)
-- Problem04_solution2.c  (OSSE2 added on June.11)
+   - Problem04_solution1.c  (OSSE2 added on June.10)
+   - Problem04_solution2.c  (OSSE2 added on June.11)
 * Problem 05
-- Problem05_solution1.c  (OSSE2 added on June.10)
-- Problem05_solution2.c  (OSSE2 added on June.6)
+   - Problem05_solution1.c  (OSSE2 added on June.10)
+   - Problem05_solution2.c  (OSSE2 added on June.6)
 * Problem 06
-- Problem06_solution1.c  (OSSE2 added on June.10)
+   - Problem06_solution1.c  (OSSE2 added on June.10)
 * Problem07
-- Problem07_solution1.c  (OSSE2 added on June.5)
-- Problem07_solution2.c  (OSSE2 added on June.8)
+   - Problem07_solution1.c  (OSSE2 added on June.5)
+   - Problem07_solution2.c  (OSSE2 added on June.8)
 
 ### PROBLEMS
 
