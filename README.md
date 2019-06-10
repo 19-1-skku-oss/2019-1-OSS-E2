@@ -40,10 +40,15 @@ You can check what we do in this project by seeing commits.
 From May 7 to June 11, we made 444 commits.
 - [checking commits](https://github.com/19-1-skku-oss/2019-1-OSS-E2/commits/master)
 
+<img src="https://user-images.githubusercontent.com/49433615/59218686-c7ffe800-8bfb-11e9-9cc9-d4e7706c3fa2.JPG" width="400">
+
 ### Issues
 In this issue, you can check what we have raised and shared information in this project.
 We opened 16 issues, and 13 of them were closed.
 - [checking issues](https://github.com/19-1-skku-oss/2019-1-OSS-E2/issues)
+
+<img src="https://user-images.githubusercontent.com/49433615/59218712-d8b05e00-8bfb-11e9-9c58-608dd45d31ac.JPG" width="400">
+<img src="https://user-images.githubusercontent.com/49433615/59218713-d948f480-8bfb-11e9-9d00-f95110170c7a.JPG" width="400">
 
 ### Pull requests
 After modifying the members' code, Merge can be checked through the consent and rejection process.
@@ -59,18 +64,27 @@ You can check the flow of tasks in progress, completed tasks, and tasks in the p
 - [Overview of this Project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/projects/3)
 - [Progress of this Project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/projects/2)
 
+<img src="https://user-images.githubusercontent.com/49433615/59218714-d948f480-8bfb-11e9-84cc-bd29a0013071.JPG" width="400">
+<img src="https://user-images.githubusercontent.com/49433615/59218715-d948f480-8bfb-11e9-9e99-8e386a3b31de.JPG" width="400">
+
 ### Wiki
 You can find informations about the members who are working on this project, what contribution they have made, and how the project is progressing over time.
 * [Home](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki)
 	* [Individual activities by period](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-activities-by-period)
 	* [member's information](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/member's-information)
 	* [Individual parts of contributing to a project](https://github.com/19-1-skku-oss/2019-1-OSS-E2/wiki/Individual-parts-of-contributing-to-a-project)
+	
+<img src="https://user-images.githubusercontent.com/49433615/59218716-d9e18b00-8bfb-11e9-9398-65c152b34041.JPG" width="400">
+<img src="https://user-images.githubusercontent.com/49433615/59218717-d9e18b00-8bfb-11e9-8fe8-c5c7fa809699.JPG" width="400">
 
 _The details of the progress of each time period are uploaded to Wiki 'Individual activities by period' so we would appreciate your reference._
 
 ### Insights
 You can see the contribution of members to the project. you can also check the statistical figures associated with this project.
 - [checking Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse)
+
+<img src="https://user-images.githubusercontent.com/49433615/59218722-dd751200-8bfb-11e9-8332-bc3f0fd57c8b.JPG" width="400">
+<img src="https://user-images.githubusercontent.com/49433615/59218711-d8b05e00-8bfb-11e9-8b95-16b9cf24cbd4.JPG" width="400">
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
