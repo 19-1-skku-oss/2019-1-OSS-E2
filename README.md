@@ -32,7 +32,7 @@ We expect our project very energetic!
 - Role : Code editing of Data Structure folder & Add new algorithm for sorting
 
 Code review of our project is carried out every three days.
-_If there are any errors or problems in certain parts of the project, such as README or codes, please send e-mail to tajanboy0359@naver.com._
+  _If there are any errors or problems in certain parts of the project, such as README or codes, please send e-mail to tajanboy0359@naver.com._
 
 # Overview what we do
 ### commits
