@@ -138,6 +138,7 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 	- word-count
 	- rna-transcription
 	- bulls-and-cows
+	- wildcard
 	
 ## Searching
 	pattern_search
@@ -197,6 +198,7 @@ _The details of the progress of each time period are uploaded to Wiki 'Individua
 	- Greatest Common Divisor
 	- GCD_BruteForce
 	- GCD_BruteForce+
+	- Hemisphere
 	- Sudoku Solver
 	- prime factorization
 	
