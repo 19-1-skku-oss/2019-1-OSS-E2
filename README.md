@@ -35,11 +35,15 @@ Code review of our project is carried out every three days.
 _If there are any errors or problems in certain parts of the project, such as README or codes, please send e-mail to tajanboy0359@naver.com._
 
 # Overview what we do
-### commits
-From May 7 to June 11, we made 439 [commits](https://github.com/19-1-skku-oss/2019-1-OSS-E2/commits/master)
+### Commits
+You can check what we do in this project by seeing commits.
+From May 7 to June 11, we made 439 commits.
+- [checking commits](https://github.com/19-1-skku-oss/2019-1-OSS-E2/commits/master)
 
-### issues
-We opened 16 [issues](https://github.com/19-1-skku-oss/2019-1-OSS-E2/issues), and 13 of them were closed.
+### Issues
+In this issue, you can check what we have raised and shared information in this project.
+We opened 16 issues, and 13 of them were closed.
+- [checking issues](https://github.com/19-1-skku-oss/2019-1-OSS-E2/issues)
 
 ### Pull requests
 We opened 154 [pull requests](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulls), and all of them were closed now.
@@ -63,7 +67,8 @@ You can find informations about the members who are working on this project, wha
 _The details of the progress of each time period are uploaded to Wiki 'Individual activities by period' so we would appreciate your reference._
 
 ### Insights
-In [Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse) corner, you can check the statistical figures associated with this project.
+You can see the contribution of members to the project. you can also check the statistical figures associated with this project.
+- [checking Insights](https://github.com/19-1-skku-oss/2019-1-OSS-E2/pulse)
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
