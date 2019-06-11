@@ -58,11 +58,11 @@ You can check the flow of this project.
 		- Diameter of BST_efficient
 		- Find_height
 		- Left-leaning red black tree
- 		- Merte_2_Balanced_BST
+		- Merte_2_Balanced_BST
 		- Splay Tree_Insert
- 		- Splay Tree_Search
- 		- Threaded_binary_tree
- 		- binary_search_tree
+		- Splay Tree_Search
+		- Threaded_binary_tree
+		- binary_search_tree
  		- create_node
  		- recursive_traversals
 	trie
