@@ -1,6 +1,6 @@
 ---
 title: Individual activities by period
-date: 2019-06-11
+date: 2019-06-10
 ---
 
 You can find informations about the members who are working on this project, and how the project is progressing over time.
