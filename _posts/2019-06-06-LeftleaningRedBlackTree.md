@@ -1,6 +1,6 @@
 ---
 title: Left-leaning red black tree
-date: 2019-05-07
+date: 2019-06-06
 ---
 
 Create Left-leaning red black tree
