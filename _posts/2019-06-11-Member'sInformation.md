@@ -1,7 +1,6 @@
 ---
 title: Member's information
 date: 2019-06-11
-comment: True
 ---
 
 This C algorithm project is underway with four SKKU Software students. Press this post for more details.
