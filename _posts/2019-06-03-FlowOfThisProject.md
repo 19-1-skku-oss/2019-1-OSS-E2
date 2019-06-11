@@ -6,6 +6,7 @@ date: 2019-06-03
 You can check the flow of this project.
 
 ## The flow of this project
+
 ### Computer Oriented Statistical Methods
 	- Gauss_Elimination
 	- Lagrange_Theorem
@@ -154,7 +155,7 @@ You can check the flow of this project.
 	- Problem 04
 	- Problem 05
 	- Problem 06
-	- Problem07
+	- Problem 07
 	
 ### Simple Client Server Implementation
 This directory contains
