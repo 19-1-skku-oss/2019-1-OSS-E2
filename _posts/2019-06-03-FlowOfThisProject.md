@@ -63,8 +63,8 @@ You can check the flow of this project.
 		- Splay Tree_Search
 		- Threaded_binary_tree
 		- binary_search_tree
- 		- create_node
- 		- recursive_traversals
+		- create_node
+		- recursive_traversals
 	trie
 		- trie
 	graphs
