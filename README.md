@@ -1,75 +1,78 @@
-# Particle Jekyll Theme
+![](https://raw.githubusercontent.com/kkninjae/book/master/github/hero.png)
 
-![](./particle.jpg)
 
-This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
+# Book
 
-The Theme features:
+Book, a simple and ready-to-use Jekyll theme. [Live](http://kkninjae.github.io/book/).
 
-- Gulp
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
-- Google Analytics
-- Info Customization
 
-## Basic Setup
+## How-to
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Clone the particle theme: `git clone https://github.com/nrandecker/particle.git`
-3. Edit `_config.yml` to personalize your site.
+*   [Setup](#setup)
+*   [Customization](#customization)
+*   [Writing Posts](#writing-posts)
+*   [Deploy to Github Page](#deploy-to-gh-pages)
 
-## Site and User Settings
 
-You have to fill some informations on `_config.yml` to customize your site.
+### <a name="setup" id>Setup</a>
 
-```
-# Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+```sh
+# get a copy of book source code
+$ git clone https://github.com/kkninjae/book.git
 
-# User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+# running site locally
+$ jekyll serve -w
+
+# from now, you should be able to start development or customization
 ```
 
-**Don't forget to change your url before you deploy your site!**
 
-## Color and Particle Customization
-- Color Customization
-  - Edit the sass variables
-- Particle Customization
-  - Edit the json data in particle function in app.js
-  - Refer to [Particle.js](https://github.com/VincentGarreau/particles.js/) for help
+### <a name="customization">Customization</a>
 
-## Running the blog in local
+Book is designed as simple as possible, but few changes can make your site uniq.
+You only need to change the values of keys in `_config.yml` file.
 
-In order to compile the assets and run Jekyll on local you need to follow those steps:
+*   Change site path: `baseurl`
+*   Give your site a name: `title`
+*   Make a site favicon: `favicon`
+*   Make a special home button image: `avatar`
 
-- Install [NodeJS](https://nodejs.org/)
-- Install [Jekyll](https://jekyllrb.com): `sudo gem install bundler jekyll`
-- Install [Yarn](https://yarnpkg.com/): `npm install -g yarn`
-- Install dependencies: `yarn`
-- Run: `gulp`
 
-## Questions
+Last but not least
 
-Having any issues file a [GitHub Issue](https://github.com/nrandecker/particle/issues/new).
+*   If you are using Google analytics: `ga`
+*   If you are using Disqus commenting system: `disqus`
 
-## License
 
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
+### <a name="writing-posts">Writing Posts</a>
 
-## Credits
+Make a markdown file in `_posts` directory,
+follow [Jekyll post naming convention](https://jekyllrb.com/docs/posts/) to name your post,
+and put following front matter to the top of your post.
+You should be able to start to write your awesome post.
+Read this [POST](https://kkninjae.github.io/book/2015/08/28/how-to-use-book.html) to know more tips.
 
-This theme was partially designed with the inspiration from these fine folks
-- [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
-- [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+```markdown
+---
+title: Your awesome post title
+date: YYYY-MM-DD
+---
+```
+
+
+### <a name="deploy-to-gh-pages">Deploy to Github Page</a>
+
+There is a deploying script built out of box.
+You need to install one more tool before using it which is [npm](https://www.npmjs.com/get-npm).
+This script will push your current static site to `gh-pages` branch.
+If there is no `gh-pages` branch yet, the script will create it for you.
+
+```sh
+# start to deploy your site to Github pages
+$ npm run deploy
+```
+
+
+## End.
+
+If you like this theme, why not give it a star. :)

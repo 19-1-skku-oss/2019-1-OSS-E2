@@ -1,21 +1,17 @@
 {
-  "name": "particle",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "book",
+  "version": "1.2.0",
   "scripts": {
-    "dev": "gulp"
+    "deploy": "bash ./github/deploy.sh"
   },
-  "author": "Nathan Randecker",
-  "license": "ISC",
-  "dependencies": {
-    "browser-sync": "^2.26.3",
-    "gulp": "^4.0.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-csso": "^3.0.1",
-    "gulp-imagemin": "^5.0.3",
-    "gulp-plumber": "^1.2.1",
-    "gulp-sass": "^4.0.2",
-    "gulp-uglify": "^3.0.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkninjae/book.git"
+  },
+  "author": "Lang Liu <hello.liulang@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^7.2.3",
+    "postcss-cli": "^4.1.1"
   }
 }

@@ -1,20 +1,57 @@
-# Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# basic
+# ============================================================================
+# if your site is serving on https://xxx.github.io, set `baseurl: /`
+# if your site is serving on https://xxx.github.io/path, set `baseurl: /path`
+baseurl: /book
 
-# User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+# site title
+title: Book
 
-# Google-analytics
-google-analytics:
-  id: ""
+# site favicon, absolute path required
+favicon: /assets/img/favicon.ico
 
-exclude: ['package.json', 'src' , 'node_modules']
+# home button image, absolute path requried
+avatar: /assets/img/avatar.jpg
+# specify meaningful description for your avatar
+avatarInfo: "Tokyo tower"
+
+# default variables for post-type page
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comment: true
+
+
+# sass
+# ============================================================================
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# exclude none site related files
+# ============================================================================
+exclude:
+  - README.md
+  - LICENSE
+  - github
+  - package.json
+  - package-lock.json
+  - node_modules
+
+
+# google analytics
+# ============================================================================
+# turn it off -> ga: false
+ga: UA-69579248-1
+
+
+# disqus
+# ============================================================================
+# turn it off for all posts -> disqus: false
+# turn it off for a particular post -> add `comment: false` to post front matter
+disqus: kkninjae
