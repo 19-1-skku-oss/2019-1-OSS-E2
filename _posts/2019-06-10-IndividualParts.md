@@ -1,6 +1,6 @@
 ---
 title: Individual parts of contributing to a project
-date: 2019-06-11
+date: 2019-06-10
 ---
 
 You can see individual parts of contributing to a project.
