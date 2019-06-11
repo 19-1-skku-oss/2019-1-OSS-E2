@@ -2,7 +2,7 @@
 # ============================================================================
 # if your site is serving on https://xxx.github.io, set `baseurl: /`
 # if your site is serving on https://xxx.github.io/path, set `baseurl: /path`
-baseurl: /book
+baseurl: /2019-1-OSS-E2
 
 # site title
 title: Book
